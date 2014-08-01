@@ -1,0 +1,28 @@
+C:\Users\Jinx\AppData\Local\Temporary Projects\NameGenerator\bin\Debug\NameGenerator.exe
+C:\Users\Jinx\AppData\Local\Temporary Projects\NameGenerator\bin\Debug\NameGenerator.pdb
+C:\Users\Jinx\AppData\Local\Temporary Projects\NameGenerator\obj\x86\Debug\NameGenerator.characterNameGen.resources
+C:\Users\Jinx\AppData\Local\Temporary Projects\NameGenerator\obj\x86\Debug\NameGenerator.main.resources
+C:\Users\Jinx\AppData\Local\Temporary Projects\NameGenerator\obj\x86\Debug\NameGenerator.Properties.Resources.resources
+C:\Users\Jinx\AppData\Local\Temporary Projects\NameGenerator\obj\x86\Debug\NameGenerator.csproj.GenerateResource.Cache
+C:\Users\Jinx\AppData\Local\Temporary Projects\NameGenerator\obj\x86\Debug\NameGenerator.exe
+C:\Users\Jinx\AppData\Local\Temporary Projects\NameGenerator\obj\x86\Debug\NameGenerator.pdb
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\obj\x86\Debug\NameGenerator.exe
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\obj\x86\Debug\NameGenerator.pdb
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\bin\Debug\characterNameGen.resx
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\bin\Debug\main.resx
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\bin\Debug\characterNameGen.cs
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\bin\Debug\characterNameGen.Designer.cs
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\bin\Debug\main.cs
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\bin\Debug\main.Designer.cs
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\bin\Debug\Program.cs
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\bin\Debug\NameGenerator.exe.manifest
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\bin\Debug\NameGenerator.application
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\bin\Debug\NameGenerator.exe
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\bin\Debug\NameGenerator.pdb
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\obj\x86\Debug\NameGenerator.characterNameGen.resources
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\obj\x86\Debug\NameGenerator.main.resources
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\obj\x86\Debug\NameGenerator.mapNameGen.resources
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\obj\x86\Debug\NameGenerator.Properties.Resources.resources
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\obj\x86\Debug\NameGenerator.csproj.GenerateResource.Cache
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\obj\x86\Debug\NameGenerator.exe.manifest
+C:\Users\Jinx\documents\visual studio 2010\Projects\NameGenerator\NameGenerator\obj\x86\Debug\NameGenerator.application
